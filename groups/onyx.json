@@ -109,7 +109,7 @@
 }, {
     "speciesId": "scizor",
     "fastMove": "FURY_CUTTER",
-    "chargedMoves": ["X_SCISSOR", "NIGHT_SLASH"]
+    "chargedMoves": ["TRAILBLAZE", "NIGHT_SLASH"]
 }, {
     "speciesId": "swalot",
     "fastMove": "MUD_SHOT",
